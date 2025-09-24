@@ -1,0 +1,31 @@
+{
+  "name": "boundless-staking",
+  "version": "1.0.0",
+  "description": "Boundless Network ETH 质押管理平台",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "npx serve .",
+    "dev": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "boundless",
+    "ethereum",
+    "staking",
+    "web3",
+    "base",
+    "defi"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/boundless-staking.git"
+  },
+  "homepage": "https://yourusername.github.io/boundless-staking",
+  "bugs": {
+    "url": "https://github.com/yourusername/boundless-staking/issues"
+  }
+}
